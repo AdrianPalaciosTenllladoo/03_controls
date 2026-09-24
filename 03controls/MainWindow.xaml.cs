@@ -36,7 +36,7 @@ namespace _03controls
 
             TextBlock txt1 = new TextBlock();
             txt1.Text = "Hola";
-            txt1.Foreground = Brushes.Red;
+            txt1.Foreground = Brushes.Purple;
             elMeuWrap.Children.Add(txt1);
 
             TextBlock txt2 = new TextBlock();
