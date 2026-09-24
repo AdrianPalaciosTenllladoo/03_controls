@@ -1,0 +1,15 @@
+C:\Users\Usuari\interficies\03controls\03controls\03controls\bin\Debug\03controls.exe.config
+C:\Users\Usuari\interficies\03controls\03controls\03controls\bin\Debug\03controls.exe
+C:\Users\Usuari\interficies\03controls\03controls\03controls\bin\Debug\03controls.pdb
+C:\Users\Usuari\interficies\03controls\03controls\03controls\obj\Debug\03controls.csproj.AssemblyReference.cache
+C:\Users\Usuari\interficies\03controls\03controls\03controls\obj\Debug\MainWindow.g.cs
+C:\Users\Usuari\interficies\03controls\03controls\03controls\obj\Debug\App.g.cs
+C:\Users\Usuari\interficies\03controls\03controls\03controls\obj\Debug\03controls_MarkupCompile.cache
+C:\Users\Usuari\interficies\03controls\03controls\03controls\obj\Debug\03controls_MarkupCompile.lref
+C:\Users\Usuari\interficies\03controls\03controls\03controls\obj\Debug\MainWindow.baml
+C:\Users\Usuari\interficies\03controls\03controls\03controls\obj\Debug\03controls.g.resources
+C:\Users\Usuari\interficies\03controls\03controls\03controls\obj\Debug\_03controls.Properties.Resources.resources
+C:\Users\Usuari\interficies\03controls\03controls\03controls\obj\Debug\03controls.csproj.GenerateResource.cache
+C:\Users\Usuari\interficies\03controls\03controls\03controls\obj\Debug\03controls.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\interficies\03controls\03controls\03controls\obj\Debug\03controls.exe
+C:\Users\Usuari\interficies\03controls\03controls\03controls\obj\Debug\03controls.pdb
